@@ -1,0 +1,4 @@
+system: Linux Manjaro x64_86
+środowiska: pyCharm
+języki: python
+komentarz: aplikacja desktopowa: pyCharm + PyQt6
